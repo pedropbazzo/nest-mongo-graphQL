@@ -60,7 +60,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-<img alt="print" title="#print" width="800px" src="https://raw.githubusercontent.com/pedropbazzo/nest-mongo-graphQL/master/src/print.png">
+<img alt="print" title="#print" width="800px" src="https://raw.githubusercontent.com/pedropbazzo/nest-mongo-graphQL/master/src/test.png">
 
 ## Support
 
